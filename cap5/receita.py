@@ -1,0 +1,11 @@
+print("Quando voce ganha")
+income = float(input())
+
+print("Essa e a parte pra essencial:")
+print(income*0.55)
+print("Essa e a parte pra educaçao:")
+print(income*0.05)
+print("Essa parte e a parte pra medio e curto prazo:")
+print(income*0.30)
+print("Essa e a parte pra gastar como quiser")
+print(income*0.10)
